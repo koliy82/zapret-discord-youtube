@@ -1,0 +1,7 @@
+# Steam hosts blocked by DPI (TLS reset)
+# store/chan/video assets + store fallback + chat
+store.fastly.steamstatic.com
+clan.fastly.steamstatic.com
+video.fastly.steamstatic.com
+steamstore-a.akamaihd.net
+steam-chat.com

@@ -27,6 +27,15 @@ GoogleGstatic         = "https://www.gstatic.com"
 CloudflareWeb         = "https://www.cloudflare.com"
 CloudflareCDN         = "https://cdnjs.cloudflare.com"
 
+### Steam
+SteamStore             = "https://store.steampowered.com"
+SteamCommunity         = "https://steamcommunity.com"
+SteamStoreFastly       = "https://store.fastly.steamstatic.com"
+SteamClanFastly        = "https://clan.fastly.steamstatic.com"
+SteamVideoFastly       = "https://video.fastly.steamstatic.com"
+SteamStoreAkamai       = "https://steamstore-a.akamaihd.net"
+SteamChat              = "https://steam-chat.com"
+
 ### Public DNS (PING-only)
 CloudflareDNS1111     = "PING:1.1.1.1"
 CloudflareDNS1001     = "PING:1.0.0.1"
