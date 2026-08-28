@@ -36,6 +36,14 @@ SteamVideoFastly       = "https://video.fastly.steamstatic.com"
 SteamStoreAkamai       = "https://steamstore-a.akamaihd.net"
 SteamChat              = "https://steam-chat.com"
 
+### Roblox
+RobloxWeb             = "https://www.roblox.com"
+RobloxAssetGame       = "https://assetgame.roblox.com"
+RobloxClientSettings  = "https://clientsettings.roblox.com"
+RobloxCDN             = "https://setup.rbxcdn.com"
+RobloxAuth            = "https://roblox-api.arkoselabs.com"
+RobloxServer          = "PING:128.116.44.3"
+
 ### Public DNS (PING-only)
 CloudflareDNS1111     = "PING:1.1.1.1"
 CloudflareDNS1001     = "PING:1.0.0.1"

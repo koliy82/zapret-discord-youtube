@@ -1,0 +1,7 @@
+# Roblox hosts blocked by DPI (TLS reset)
+# web/api + CDN + infra + login verification
+roblox.com
+rbxcdn.com
+rbxinfra.com
+rbxinfra.net
+roblox-api.arkoselabs.com
