@@ -48,6 +48,8 @@ discordpartygames.com
 discordsays.com
 discordsez.com
 discordstatus.com
+workers.cloudflare.com
+workers.dev
 zendesk.com
 frankerfacez.com
 ffzap.com

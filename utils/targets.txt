@@ -27,6 +27,14 @@ GoogleGstatic         = "https://www.gstatic.com"
 CloudflareWeb         = "https://www.cloudflare.com"
 CloudflareCDN         = "https://cdnjs.cloudflare.com"
 
+### Cloudflare Workers
+WorkersRelayFamoria   = "https://cloudflare-relay.famoria.workers.dev"
+WorkersDev            = "https://workers.dev"
+WorkersPortal         = "https://workers.cloudflare.com"
+CloudflareAPI         = "https://api.cloudflare.com"
+CloudflareEdge1       = "PING:104.21.81.91"
+CloudflareEdge2       = "PING:172.67.141.83"
+
 ### Steam
 SteamStore             = "https://store.steampowered.com"
 SteamCommunity         = "https://steamcommunity.com"
