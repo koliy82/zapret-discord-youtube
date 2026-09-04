@@ -48,6 +48,7 @@ discordpartygames.com
 discordsays.com
 discordsez.com
 discordstatus.com
+vercel.app
 workers.cloudflare.com
 workers.dev
 zendesk.com
