@@ -1,0 +1,9 @@
+# Tyr hosts blocked by DPI (TLS reset)
+# Snapser backend: gateway (auth/lobbies/matchmaking/inventory) + CDN
+snapser.com
+# Supabase (api.tyrhq.com CNAME, realtime/storage)
+supabase.co
+# developer website / api / stats
+tyrhq.com
+playtyr.com
+tyrstats.com

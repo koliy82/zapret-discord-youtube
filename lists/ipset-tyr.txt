@@ -1,0 +1,22 @@
+# Tyr game servers: AWS EC2, resolved from client logs.
+# Base list from https://ip-ranges.amazonaws.com/ip-ranges.json (service=EC2)
+# Game servers in logs: 3.76.117.81, 63.179.244.49, 18.197.33.41, 3.70.224.190,
+# 3.126.120.147, 3.67.40.17, 3.125.154.155, 13.222.161.126 (UDP 7000-8000)
+# eu-central-1 (main Snapser fleet):
+3.64.0.0/12
+3.120.0.0/14
+3.124.0.0/14
+18.153.0.0/16
+18.156.0.0/14
+18.184.0.0/15
+18.192.0.0/15
+18.194.0.0/15
+18.196.0.0/15
+18.198.0.0/15
+35.156.0.0/14
+52.57.0.0/16
+52.58.0.0/15
+54.93.0.0/16
+63.176.0.0/14
+# us-east-1 (fallback connection servers):
+13.216.0.0/13
